@@ -103,3 +103,12 @@
     color:  hsl(18, 95%, 50%);
 }
 }
+
+.blue .card{
+&-footer{
+    background-color: #3498db
+}
+&-body span{
+    color:  #3498db
+}
+}

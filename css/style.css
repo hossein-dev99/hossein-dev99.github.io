@@ -97,3 +97,10 @@
 .orange .card-body span {
   color: #f94f06;
 }
+
+.blue .card-footer {
+  background-color: #3498db;
+}
+.blue .card-body span {
+  color: #3498db;
+}
